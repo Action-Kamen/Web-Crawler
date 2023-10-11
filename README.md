@@ -1,4 +1,4 @@
-Web Data Extractor Spring ’23
+# Web Data Extractor Spring ’23
 Course Project | Prof. Kameswari Chebrolu - Software Systems Lab
 • Developed an efficient Python web crawler using the BeautifulSoup library, designed to extract specific file types
 based on user-defined extensions with automatic file organization based on the URL of the files
